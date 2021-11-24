@@ -11,5 +11,3 @@ This is updated as part of feature branch's second commit.
 This is updated as part of feature branch's third commit.
 
 This is updated as part of feature branch's fourth commit message.
-
-This is unwanted commit
